@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/InterestCalculator/static/css/main.72a0b4c1.css",
-    "main.js": "/InterestCalculator/static/js/main.a935917c.js",
+    "main.js": "/InterestCalculator/static/js/main.7c644de1.js",
     "static/js/453.92889dae.chunk.js": "/InterestCalculator/static/js/453.92889dae.chunk.js",
     "index.html": "/InterestCalculator/index.html",
     "main.72a0b4c1.css.map": "/InterestCalculator/static/css/main.72a0b4c1.css.map",
-    "main.a935917c.js.map": "/InterestCalculator/static/js/main.a935917c.js.map",
+    "main.7c644de1.js.map": "/InterestCalculator/static/js/main.7c644de1.js.map",
     "453.92889dae.chunk.js.map": "/InterestCalculator/static/js/453.92889dae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72a0b4c1.css",
-    "static/js/main.a935917c.js"
+    "static/js/main.7c644de1.js"
   ]
 }
