@@ -29,7 +29,9 @@ const Calculator = () => {
         }
 
         res2 = value * 2.95 / 100 / 12
-        res3 = value * 3.65 / 100 / 12;
+
+        if (value < 105)  res3 = 0
+        else res3 = value * 3.60 / 100 / 12;
 
         setResult1(res1.toFixed(2));
         setResult2(res2.toFixed(2));
